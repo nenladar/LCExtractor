@@ -1,7 +1,15 @@
 # LCExtractor
 Plugin for the [deluge](http://deluge-torrent.org/) torrent client that extracts compressed files upon torrent completion.
 
-Modified extractor plugin for the deluge torrent client (v1.3.15)
+Modified extractor plugin for the deluge torrent client (v1.3.15
+
+## UPDATE: Obsolete.
+
+This fork's modifications were merged upstream, so this is no longer relevant.
+
+Further, please see https://github.com/Chris-V/LCExtractor for a Deluge 2.0 variant.
+
+## Older
 
 Changes have been made to integrate with the way "Completed Download Handling" works with Sonarr and Radarr
 
